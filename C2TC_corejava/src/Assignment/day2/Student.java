@@ -1,4 +1,4 @@
-package Assignment2;
+package Assignment.day2;
 
 public class Student {
 		public Student() {
