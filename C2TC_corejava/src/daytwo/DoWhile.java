@@ -1,13 +1,14 @@
-package day2;
+package daytwo;
 
-public class WhileLoop {
+public class DoWhile {
 		public static void main(String[] args) {
-			int i = 20;
-			while(i<=25) {
+			int i = 10;
+			do {
 				System.out.println(i);
 				i++;
+			}while (i <= 30);
 			}
-		}
+		
 	}
 
 

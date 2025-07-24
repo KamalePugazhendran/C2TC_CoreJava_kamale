@@ -1,4 +1,4 @@
-package day2;
+package daytwo;
 
 public class NestedForLoop {
 		public static void main(String[] args) {

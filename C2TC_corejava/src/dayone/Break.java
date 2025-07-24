@@ -1,4 +1,4 @@
-package day1;
+package dayone;
 
 public class Break {
 	public static void main(String[] args) {
