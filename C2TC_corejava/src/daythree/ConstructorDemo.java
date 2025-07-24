@@ -1,4 +1,4 @@
-package daythree.constructor;
+package daythree;
 
 	import java.util.Scanner;
 

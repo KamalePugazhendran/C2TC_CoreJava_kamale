@@ -1,4 +1,4 @@
-package daythree.constructor;
+package daythree;
 
 public class Customer {
 		 private String customerName;
