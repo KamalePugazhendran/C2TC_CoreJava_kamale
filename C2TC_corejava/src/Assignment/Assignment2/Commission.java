@@ -1,4 +1,4 @@
-package Assignment.day2;
+package Assignment.Assignment2;
 
 public class Commission {
 		private String name;

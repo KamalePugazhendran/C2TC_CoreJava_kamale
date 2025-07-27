@@ -1,4 +1,4 @@
-package Assignment.day3;
+package Assignment.Assignment3;
 
 abstract class Account {
 	    protected String accountNumber;
