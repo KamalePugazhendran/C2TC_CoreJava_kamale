@@ -1,4 +1,4 @@
-package Assignment.Entity2Assignment2;
+package Assignment.Entity2Assignment1;
 
 public class MainProgram {
 		public static void main(String[] args) {
