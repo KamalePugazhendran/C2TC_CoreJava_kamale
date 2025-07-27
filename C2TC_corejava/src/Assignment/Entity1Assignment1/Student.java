@@ -1,4 +1,4 @@
-package Assignment.entity1day1;
+package Assignment.Entity1Assignment1;
 
 public class Student{
 	

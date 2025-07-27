@@ -1,4 +1,4 @@
-package Assignment.entity2day1;
+package Assignment.Entity2Assignment2;
 
 public class Product {
 		private int productId;
