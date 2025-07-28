@@ -1,4 +1,4 @@
-package dayseven;
+package dayseven.overloading;
 
 public class Point {
 		private float x;
