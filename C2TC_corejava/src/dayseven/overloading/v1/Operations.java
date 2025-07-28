@@ -1,4 +1,4 @@
-package dayseven.overloading;
+package dayseven.overloading.v1;
 
 public class Operations {
 	//check whether number is Palindrome or not?
