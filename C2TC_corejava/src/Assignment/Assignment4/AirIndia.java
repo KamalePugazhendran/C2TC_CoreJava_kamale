@@ -1,5 +1,6 @@
-package Assignment4;
-	public class AirIndia implements Airfare {
+package Assignment.Assignment4;
+
+public class AirIndia implements Airfare {
 	    private int hours;
 	    private double costPerHour;
 

@@ -1,11 +1,12 @@
-package Assignment4;
-	public class Indigo implements Airfare {
+package Assignment.Assignment4;
+
+public class KingFisher implements Airfare {
 	    private int hours;
 	    private double costPerHour;
 
-	    public Indigo() {}
+	    public KingFisher() {}
 
-	    public Indigo(int hours, double costPerHour) {
+	    public KingFisher(int hours, double costPerHour) {
 	        this.hours = hours;
 	        this.costPerHour = costPerHour;
 	    }
@@ -28,7 +29,7 @@ package Assignment4;
 
 	    @Override
 	    public double calculateAmount() {
-	        return hours * costPerHour * 8;
+	        return hours * costPerHour * 4;
 	    }
 
 	    @Override
@@ -36,5 +37,6 @@ package Assignment4;
 	        System.out.printf("%.2f\n", calculateAmount());
 	    }
 	}
+
 
 

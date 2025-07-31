@@ -1,4 +1,4 @@
-package Assignment4;
+package Assignment.Assignment4;
 
 public interface Airfare {
 	    double calculateAmount();
