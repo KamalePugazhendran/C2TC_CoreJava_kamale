@@ -1,11 +1,9 @@
-package dayfifteen.userdefinedobjects.comparableandcomparator;
+package dayfifteen.comparableandconstructor;
 
 import java.util.ArrayList;
 import java.util.Collections;
 
 import java.util.List;
-
-import dayfifteen.builtinobjects.Student;
 
 
 class Point implements Comparable<Point>

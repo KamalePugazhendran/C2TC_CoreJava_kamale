@@ -1,4 +1,4 @@
-package dayfifteen.userdefinedobjects.comparableandcomparator;
+package dayfifteen.comparableandconstructor;
 
 import java.util.Comparator;
 

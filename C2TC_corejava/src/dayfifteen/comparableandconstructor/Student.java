@@ -1,4 +1,4 @@
-package dayfifteen.builtinobjects;
+package dayfifteen.comparableandconstructor;
 
 public class Student implements Comparable<Student> 
 {

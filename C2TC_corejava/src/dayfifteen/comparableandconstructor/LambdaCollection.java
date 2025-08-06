@@ -1,11 +1,9 @@
-package dayfifteen.userdefinedobjects.comparableandcomparator;
+package dayfifteen.comparableandconstructor;
 
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
-
-import dayfifteen.builtinobjects.Student;
 
 public class LambdaCollection {
 
