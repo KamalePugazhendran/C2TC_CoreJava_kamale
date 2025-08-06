@@ -1,4 +1,4 @@
-package dayfifteen.comparableandcomparator;
+package dayfifteen.userefinedobjects.comparableandcomparator;
 
 public class Student implements Comparable<Student> 
 {

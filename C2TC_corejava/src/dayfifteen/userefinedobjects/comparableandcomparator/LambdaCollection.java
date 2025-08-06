@@ -1,4 +1,4 @@
-package dayfifteen.comparableandcomparator;
+package dayfifteen.userefinedobjects.comparableandcomparator;
 
 
 import java.util.ArrayList;
